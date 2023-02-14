@@ -26,7 +26,7 @@ Get the [latest CI release](https://github.com/Abdallah-Abdelazim/revanced-yt/re
 [**See the list of patches**](https://github.com/revanced/revanced-patches#-patches)
 
  * Star the repo :eyes:
- * [Fork the repo](https://github.com/Abdallah-Abdelazim/revanced-yt/fork) or use it as a template
+ * [Fork the repo](https://github.com/Abdallah-Abdelazim/revanced-yt/fork)
  * Customize [`config.toml`](./config.toml)
  * Run the build [workflow](../../actions/workflows/build.yml)
  * Grab your modules and APKs from [releases](../../releases)
