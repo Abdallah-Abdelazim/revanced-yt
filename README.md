@@ -44,6 +44,6 @@ Make sure you have JDK 17 and jq installed. Then run:
 
 ```console
 $ git clone --recurse https://github.com/Abdallah-Abdelazim/revanced-yt
-$ cd revanced-magisk-module
+$ cd revanced-yt
 $ ./build.sh
 ```
