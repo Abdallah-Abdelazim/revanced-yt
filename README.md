@@ -36,7 +36,7 @@ To add more ReVanced apps or build ReVanced Extended `config.toml`, read here [`
 # Building Locally
 ## On Termux
 ```console
-bash <(curl -sSf https://raw.githubusercontent.com/j-hc/revanced-magisk-module/main/build-termux.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/Abdallah-Abdelazim/revanced-yt/main/build-termux.sh)
 ```
 
 ## On Desktop
